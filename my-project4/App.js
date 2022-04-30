@@ -1,4 +1,4 @@
-//Questão 4
+//Calculadora utilizando Flexbox
 
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
